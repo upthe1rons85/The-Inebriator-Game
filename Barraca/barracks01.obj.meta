@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: a852ef9bfda02a2478efdd641d5dd39b
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Barracks01:0
+    100004: Barracks02:0
+    100006: Barracks03:0
+    100008: BarracksDecal:0
+    100010: BarracksEBox01:0
+    100012: BarracksEBox02:0
+    100014: BarracksInside:0
+    100016: BarracksPly:0
+    100018: BarracksRoof:0
+    100020: BarracksVent:0
+    100022: collision
+    400000: //RootNode
+    400002: Barracks01:0
+    400004: Barracks02:0
+    400006: Barracks03:0
+    400008: BarracksDecal:0
+    400010: BarracksEBox01:0
+    400012: BarracksEBox02:0
+    400014: BarracksInside:0
+    400016: BarracksPly:0
+    400018: BarracksRoof:0
+    400020: BarracksVent:0
+    400022: collision
+    2300000: Barracks01:0
+    2300002: Barracks02:0
+    2300004: Barracks03:0
+    2300006: BarracksDecal:0
+    2300008: BarracksEBox01:0
+    2300010: BarracksEBox02:0
+    2300012: BarracksInside:0
+    2300014: BarracksPly:0
+    2300016: BarracksRoof:0
+    2300018: BarracksVent:0
+    2300020: collision
+    3300000: Barracks01:0
+    3300002: Barracks02:0
+    3300004: Barracks03:0
+    3300006: BarracksDecal:0
+    3300008: BarracksEBox01:0
+    3300010: BarracksEBox02:0
+    3300012: BarracksInside:0
+    3300014: BarracksPly:0
+    3300016: BarracksRoof:0
+    3300018: BarracksVent:0
+    3300020: collision
+    4300000: Barracks01:0
+    4300002: Barracks02:0
+    4300004: Barracks03:0
+    4300006: BarracksDecal:0
+    4300008: BarracksEBox01:0
+    4300010: BarracksEBox02:0
+    4300012: BarracksInside:0
+    4300014: BarracksPly:0
+    4300016: BarracksRoof:0
+    4300018: BarracksVent:0
+    4300020: collision
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

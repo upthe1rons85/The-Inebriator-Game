@@ -1,0 +1,38 @@
+# Blender MTL File: 'bathos.blend'
+# Material Count: 3
+
+newmtl mi_stingerGrenadier_body
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_stingerGrenadier_body_d.tga
+map_Ke t_stingerGrenadier_head_m.tga
+map_Disp t_stingerGrenadier_body_n.tga
+
+newmtl mi_stingerGrenadier_head
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_stingerGrenadier_head_d.tga
+map_Ke t_stingerGrenadier_head_m.tga
+map_Disp t_stingerGrenadier_head_n.tga
+map_Ks t_stingerGrenadier_head_s.tga
+
+newmtl mi_stingerGrenadier_wing
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_stingerGrenadier_wings_dm.tga
+map_Disp t_stingerGrenadier_wings_n.tga

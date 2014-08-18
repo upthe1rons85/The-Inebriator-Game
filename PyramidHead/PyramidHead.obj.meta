@@ -1,0 +1,90 @@
+fileFormatVersion: 2
+guid: c7b0446af4d4eb24fa7cef464dcd6b86
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: 00_ph_skirt_mat
+    100002: 01_ph_skirt_mat
+    100004: 02_ph_torso_mat
+    100006: 03_ph_helmet2_mat
+    100008: 04_ph_collar2_mat
+    100010: 06_ph_blade_mat
+    100012: //RootNode
+    400000: 00_ph_skirt_mat
+    400002: 01_ph_skirt_mat
+    400004: 02_ph_torso_mat
+    400006: 03_ph_helmet2_mat
+    400008: 04_ph_collar2_mat
+    400010: 06_ph_blade_mat
+    400012: //RootNode
+    2300000: 00_ph_skirt_mat
+    2300002: 01_ph_skirt_mat
+    2300004: 02_ph_torso_mat
+    2300006: 03_ph_helmet2_mat
+    2300008: 04_ph_collar2_mat
+    2300010: 06_ph_blade_mat
+    3300000: 00_ph_skirt_mat
+    3300002: 01_ph_skirt_mat
+    3300004: 02_ph_torso_mat
+    3300006: 03_ph_helmet2_mat
+    3300008: 04_ph_collar2_mat
+    3300010: 06_ph_blade_mat
+    4300000: 00_ph_skirt_mat
+    4300002: 01_ph_skirt_mat
+    4300004: 02_ph_torso_mat
+    4300006: 03_ph_helmet2_mat
+    4300008: 04_ph_collar2_mat
+    4300010: 06_ph_blade_mat
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

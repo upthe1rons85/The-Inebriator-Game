@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 40955aed542d0c44c86196461f77a59d
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: 0
+    100002: 0 1
+    100004: 0 2
+    100006: 0 3
+    100008: 0 4
+    100010: 0 5
+    100012: 0 6
+    100014: 0 7
+    100016: 0 8
+    100018: //RootNode
+    100020: barracks01:0
+    100022: barracks01:collision
+    400000: 0
+    400002: 0 1
+    400004: 0 2
+    400006: 0 3
+    400008: 0 4
+    400010: 0 5
+    400012: 0 6
+    400014: 0 7
+    400016: 0 8
+    400018: //RootNode
+    400020: barracks01:0
+    400022: barracks01:collision
+    2300000: 0
+    2300002: 0 1
+    2300004: 0 2
+    2300006: 0 3
+    2300008: 0 4
+    2300010: 0 5
+    2300012: 0 6
+    2300014: 0 7
+    2300016: 0 8
+    2300018: barracks01:0
+    2300020: barracks01:collision
+    3300000: 0
+    3300002: 0 1
+    3300004: 0 2
+    3300006: 0 3
+    3300008: 0 4
+    3300010: 0 5
+    3300012: 0 6
+    3300014: 0 7
+    3300016: 0 8
+    3300018: barracks01:0
+    3300020: barracks01:collision
+    4300000: 0
+    4300002: 0
+    4300004: 0
+    4300006: 0
+    4300008: 0
+    4300010: 0
+    4300012: 0
+    4300014: 0
+    4300016: 0
+    4300018: barracks01:0
+    4300020: barracks01:collision
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: c248f6727c1156c4fadedf1b173562bf
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Gnarly_t
+    100002: Oak_Tree
+    100004: Red_Spru
+    100006: Scots_P0
+    100008: Scots_P0_MeshPart0
+    100010: Scots_P0_MeshPart1
+    100012: Scots_P1
+    100014: Sequoia5
+    100016: Sonnerat
+    100018: Tall_Pin
+    100020: Tall_Pin_MeshPart0
+    100022: Tall_Pin_MeshPart1
+    100024: //RootNode
+    100026: Wallnut_
+    400000: Gnarly_t
+    400002: Oak_Tree
+    400004: Red_Spru
+    400006: Scots_P0
+    400008: Scots_P0_MeshPart0
+    400010: Scots_P0_MeshPart1
+    400012: Scots_P1
+    400014: Sequoia5
+    400016: Sonnerat
+    400018: Tall_Pin
+    400020: Tall_Pin_MeshPart0
+    400022: Tall_Pin_MeshPart1
+    400024: //RootNode
+    400026: Wallnut_
+    2300000: Gnarly_t
+    2300002: Oak_Tree
+    2300004: Red_Spru
+    2300006: Scots_P0_MeshPart0
+    2300008: Scots_P0_MeshPart1
+    2300010: Scots_P1
+    2300012: Sequoia5
+    2300014: Sonnerat
+    2300016: Tall_Pin_MeshPart0
+    2300018: Tall_Pin_MeshPart1
+    2300020: Wallnut_
+    3300000: Gnarly_t
+    3300002: Oak_Tree
+    3300004: Red_Spru
+    3300006: Scots_P0_MeshPart0
+    3300008: Scots_P0_MeshPart1
+    3300010: Scots_P1
+    3300012: Sequoia5
+    3300014: Sonnerat
+    3300016: Tall_Pin_MeshPart0
+    3300018: Tall_Pin_MeshPart1
+    3300020: Wallnut_
+    4300000: Gnarly_t
+    4300002: Red_Spru
+    4300004: Scots_P0_MeshPart0
+    4300006: Scots_P0_MeshPart1
+    4300008: Sequoia5
+    4300010: Sonnerat
+    4300012: Tall_Pin_MeshPart0
+    4300014: Tall_Pin_MeshPart1
+    4300016: Oak_Tree
+    4300018: Wallnut_
+    4300020: Scots_P1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

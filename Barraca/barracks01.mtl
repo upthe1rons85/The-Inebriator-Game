@@ -1,0 +1,90 @@
+
+newmtl Material.000309
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\barracks\barracks02.dds
+
+
+newmtl Material.001d0e
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\barracks\barracks03.dds
+
+
+newmtl Material.001e1e
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\clutter\nvstain01.dds
+
+
+newmtl Material.001e5a
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\barracks\ebox01.dds
+
+
+newmtl Material.001f0c
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\barracks\ebox02.dds
+
+
+newmtl Material.002186
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\trainstation\stationwoodinside.dds
+
+
+newmtl Material.0021a6
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\trainstation\stationwoodply.dds
+
+
+newmtl Material.0021c6
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\barracks\vent01.dds
+
+
+newmtl Material.0023d6
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\trainstation\stationroof.dds
+
+
+newmtl Material.00262e
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\barracks\barracks01.dds
+
